@@ -1,4 +1,8 @@
 {
+    "globalHeaders": {
+        "Access-Control-Allow-Origin": "https://playground.babylonjs.com",
+        "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
+    },
     "mimeTypes": {
         ".glb": "model/gltf-binary"
     }
