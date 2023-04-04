@@ -1,0 +1,5 @@
+{
+    "mimeTypes": {
+        ".glb": "model/gltf-binary"
+    }
+}
